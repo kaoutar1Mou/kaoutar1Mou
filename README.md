@@ -1,16 +1,30 @@
-## Hi there 👋
+# Bonjour et bienvenue sur mon profil GitHub !
 
-<!--
-**kaoutar1Mou/kaoutar1Mou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Data Analyst
 
-Here are some ideas to get you started:
+Passionnée par l’analyse des données et la visualisation, je développe mes compétences à travers des projets pratiques orientés **Data Analytics et Business Intelligence**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mon objectif est de transformer les données en informations claires et pertinentes pour faciliter la prise de décision.
+
+---
+
+##  Compétences
+
+* **Data Analysis :** SQL, Excel
+* **Data Visualization & BI :** Power BI
+* **Bases de données :** MySQL, SQL Server
+* **Outils :** Git, GitHub
+
+---
+
+## 🎯 Objectif professionnel
+
+À la recherche d’une opportunité en tant que **Data Analyst**, je souhaite mettre mes compétences analytiques au service de projets concrets tout en continuant à développer mon expertise dans le domaine de la Data.
+
+---
+
+## 📫 Contact
+
+💼 **LinkedIn :** [Mon profil LinkedIn](#)
+
+📧 **Email :** [kaoutar1.mouamir@gmail.com](#)
