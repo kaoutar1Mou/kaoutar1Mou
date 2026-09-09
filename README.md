@@ -11,14 +11,14 @@ Passionnée par l’analyse de données, je souhaite mettre mes compétences en 
 
 ##  Compétences
 
-Power BI
-SQL
-Excel
-Power Query
-DAX
-Nettoyage et transformation des données
-Modélisation des données
-Data Visualisation
+* Power BI
+* SQL
+* Excel
+* Power Query
+* DAX
+* Nettoyage et transformation des données
+* Modélisation des données
+* Data Visualisation
 
 ---
 
@@ -28,16 +28,16 @@ ALX Data Analytics
 
 Sur ce profil, je partage mes projets d’analyse de données.
 
-## 🎯 Objectif professionnel
+##  Objectif professionnel
 
 À la recherche d’une opportunité en tant que **Data Analyst**, je souhaite mettre mes compétences analytiques au service de projets concrets tout en continuant à développer mon expertise dans le domaine de la Data.
 
 ---
 
-## 📫 Contact
+##  Contact
 
 💼 **LinkedIn :** [[Mon profil LinkedIn](https://www.linkedin.com/in/kaoutar-m-9321b1388/)](#)
 
-📧 **Email :** [kaoutar1.mouamir@gmail.com](#)
+📧 **Email :** [kaoutar1.mouamir@gmail.com]
 
 Maroc, Agadir
