@@ -1,21 +1,32 @@
-# Bonjour et bienvenue sur mon profil GitHub !
+# Bonjour, je suis Kaoutar !
 
-##  Data Analyst
+##  Data Analyst | Power BI | Excel | SQL
+Master en Web Intelligence et Sciences des Données
 
-Passionnée par l’analyse des données et la visualisation, je développe mes compétences à travers des projets pratiques orientés **Data Analytics et Business Intelligence**.
+Passionnée par l’analyse de données, je souhaite mettre mes compétences en Data Analytics au service de projets concrets.
 
-Mon objectif est de transformer les données en informations claires et pertinentes pour faciliter la prise de décision.
 
 ---
+
 
 ##  Compétences
 
-* **Data Analysis :** SQL, Excel
-* **Data Visualization & BI :** Power BI
-* **Bases de données :** MySQL, SQL Server
-* **Outils :** Git, GitHub
+Power BI
+SQL
+Excel
+Power Query
+DAX
+Nettoyage et transformation des données
+Modélisation des données
+Data Visualisation
 
 ---
+
+Certifications:
+Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+ALX Data Analytics
+
+Sur ce profil, je partage mes projets d’analyse de données.
 
 ## 🎯 Objectif professionnel
 
@@ -25,6 +36,8 @@ Mon objectif est de transformer les données en informations claires et pertinen
 
 ## 📫 Contact
 
-💼 **LinkedIn :** [Mon profil LinkedIn](#)
+💼 **LinkedIn :** [[Mon profil LinkedIn](https://www.linkedin.com/in/kaoutar-m-9321b1388/)](#)
 
 📧 **Email :** [kaoutar1.mouamir@gmail.com](#)
+
+Maroc, Agadir
