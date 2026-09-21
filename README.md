@@ -35,7 +35,7 @@ Sur ce profil, je partage mes projets d’analyse de données.
 
 ##  Contact
 
- **LinkedIn :** [[Mon profil LinkedIn](linkedin.com/in/kaoutar-m-data)]
+ **LinkedIn :** [[Mon profil LinkedIn](https://www.linkedin.com/in/kaoutar-m-data/)]
 
  **Email :** [kaoutar1.mouamir@gmail.com]
 
