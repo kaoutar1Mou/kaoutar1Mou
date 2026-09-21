@@ -42,7 +42,7 @@ Passionnée par l’analyse de données, je souhaite mettre mes compétences en 
 
 
 
-# 📫 Me contacter:
+# 📫 Me Contacter:
 
 **💼LinkedIn:** [[Mon profil LinkedIn](https://www.linkedin.com/in/kaoutar-m-data/)]
 
