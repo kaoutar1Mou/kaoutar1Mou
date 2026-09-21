@@ -26,7 +26,7 @@ Passionnée par l’analyse de données, je souhaite mettre mes compétences en 
 
 # 🚀 Mes Projets
 
-*📦 [Analyse des Ventes - AdventureWorks](https://github.com/kaoutar1Mou/analyse-des-performances-commerciales-AdventureWorks)*: 
+*📦 [Analyse des performances commerciales - AdventureWorks](https://github.com/kaoutar1Mou/analyse-des-performances-commerciales-AdventureWorks)*: 
 * Préparation des données : Nettoyage et transformation des données brutes avec Power Query.
 * Modélisation : Organisation des tables en Schéma Hybride pour faciliter les calculs.
 * Analyses & DAX : Création de formules DAX pour calculer le Chiffre d'Affaires, les bénéfices et le taux de retour.
