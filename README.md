@@ -28,8 +28,10 @@ Passionnée par l’analyse de données, je souhaite mettre mes compétences en 
 * ALX Data Analytics
   
 ---
-Sur ce profil, je partage mes projets d’analyse de données.
+# Projets A la Une
+  **[Analyse des Ventes - AdventureWorks](https://github.com/kaoutar1Mou/analyse-des-performances-commerciales-AdventureWorks)**:
 
+  **[Analyse du comportement Client](https://github.com/kaoutar1Mou/analyse-comportement-clients)**:
 ---
 
 
