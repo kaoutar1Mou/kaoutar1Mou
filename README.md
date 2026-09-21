@@ -1,7 +1,7 @@
-# Bonjour, je suis Kaoutar !
+# 👋 Bonjour, je suis Kaoutar !
 
 ##  Data Analyst | Power BI | Excel | SQL
-Master en Web Intelligence et Sciences des Données
+    Master en Web Intelligence et Sciences des Données
 
 Passionnée par l’analyse de données, je souhaite mettre mes compétences en Data Analytics au service de projets concrets.
 
@@ -9,16 +9,11 @@ Passionnée par l’analyse de données, je souhaite mettre mes compétences en 
 ---
 
 
-##  Compétences
+# 🛠️ Compétences Techniques
 
-* Power BI
-* SQL
-* Excel
-* Power Query
-* DAX
-* Nettoyage et transformation des données
-* Modélisation des données
-* Data Visualisation
+- Excel : Nettoyage de données (Power Query), Tableaux Croisés Dynamiques, Fonctions avancées (XLOOKUP)
+- SQL : Requêtes d'extraction, Jointures (Joins), Groupements (GROUP BY), CTEs
+- Power BI : Modélisation de données (Schéma en étoile), Calculs DAX, Création de rapports interactifs
 
 ---
 
@@ -31,25 +26,25 @@ Passionnée par l’analyse de données, je souhaite mettre mes compétences en 
 # Projets A la Une
 
   *📦 [Analyse des Ventes - AdventureWorks](https://github.com/kaoutar1Mou/analyse-des-performances-commerciales-AdventureWorks)*: 
-    *   Préparation des données : Nettoyage et transformation des données brutes avec Power Query.
-    *   Modélisation : Organisation des tables en Schéma Hybride pour faciliter les calculs.
-    *   Analyses & DAX : Création de formules DAX pour calculer le Chiffre d'Affaires, les bénéfices et le taux de retour.
-    *   Visualisation : Conception d'un tableau de bord dynamique sur Power BI pour suivre les indicateurs clés (KPIs).
+    *Préparation des données : Nettoyage et transformation des données brutes avec Power Query.
+    *Modélisation : Organisation des tables en Schéma Hybride pour faciliter les calculs.
+    *Analyses & DAX : Création de formules DAX pour calculer le Chiffre d'Affaires, les bénéfices et le taux de retour.
+    *Visualisation : Conception d'un tableau de bord dynamique sur Power BI pour suivre les indicateurs clés (KPIs).
 
   *👥[Analyse du comportement Client](https://github.com/kaoutar1Mou/analyse-comportement-clients)*: 
-    *   Nettoyage initial : Première exploration et traitement des valeurs manquantes avec Python (Pandas).
-    *   Base de données : Stockage des données sur MySQL et écriture de requêtes SQL pour segmenter les clients.
-    *   Rapport Power BI : Création de graphiques interactifs pour analyser la fidélité des clients et les achats par saison.
-    *   Résultats : Proposition de recommandations simples pour améliorer les ventes.
+    *Nettoyage initial : Première exploration et traitement des valeurs manquantes avec Python (Pandas).
+    *Base de données : Stockage des données sur MySQL et écriture de requêtes SQL pour segmenter les clients.
+    *Rapport Power BI : Création de graphiques interactifs pour analyser la fidélité des clients et les achats par saison.
+    *Résultats : Proposition de recommandations simples pour améliorer les ventes.
   
 ---
 
 
 ##  Contact
 
- **LinkedIn :** [[Mon profil LinkedIn](https://www.linkedin.com/in/kaoutar-m-data/)]
+ **💼LinkedIn :** [[Mon profil LinkedIn](https://www.linkedin.com/in/kaoutar-m-data/)]
 
- **Email :** [kaoutar1.mouamir@gmail.com]
+ **📧Email :** [kaoutar1.mouamir@gmail.com]
 
 ---
 
