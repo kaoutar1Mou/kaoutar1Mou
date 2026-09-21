@@ -29,9 +29,19 @@ Passionnée par l’analyse de données, je souhaite mettre mes compétences en 
   
 ---
 # Projets A la Une
-  **[Analyse des Ventes - AdventureWorks](https://github.com/kaoutar1Mou/analyse-des-performances-commerciales-AdventureWorks)**:
 
-  **[Analyse du comportement Client](https://github.com/kaoutar1Mou/analyse-comportement-clients)**:
+  *📦 [Analyse des Ventes - AdventureWorks](https://github.com/kaoutar1Mou/analyse-des-performances-commerciales-AdventureWorks)*: 
+    *   Préparation des données : Nettoyage et transformation des données brutes avec Power Query.
+    *   Modélisation : Organisation des tables en Schéma Hybride pour faciliter les calculs.
+    *   Analyses & DAX : Création de formules DAX pour calculer le Chiffre d'Affaires, les bénéfices et le taux de retour.
+    *   Visualisation : Conception d'un tableau de bord dynamique sur Power BI pour suivre les indicateurs clés (KPIs).
+
+  *👥[Analyse du comportement Client](https://github.com/kaoutar1Mou/analyse-comportement-clients)*: 
+    *   Nettoyage initial : Première exploration et traitement des valeurs manquantes avec Python (Pandas).
+    *   Base de données : Stockage des données sur MySQL et écriture de requêtes SQL pour segmenter les clients.
+    *   Rapport Power BI : Création de graphiques interactifs pour analyser la fidélité des clients et les achats par saison.
+    *   Résultats : Proposition de recommandations simples pour améliorer les ventes.
+  
 ---
 
 
