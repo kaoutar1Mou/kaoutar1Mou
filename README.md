@@ -1,6 +1,6 @@
 # 👋 Bonjour, je suis Kaoutar !
 
-# 📊 Data Analyst | Diplômée en Science des Données 
+# 📊 Data Analyst | Passionnée par l'analyse des Données
 
 Passionnée par l’analyse de données, je souhaite mettre mes compétences en Data Analytics au service de projets concrets.
 
