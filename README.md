@@ -36,7 +36,7 @@ Passionnée par l’analyse de données, je souhaite mettre mes compétences en 
 * Nettoyage initial : Première exploration et traitement des valeurs manquantes avec Python (Pandas).
 * Base de données : Stockage des données sur MySQL et écriture de requêtes SQL pour segmenter les clients.
 * Rapport Power BI : Création de graphiques interactifs pour analyser la fidélité des clients et les achats par saison.
-* Résultats : Proposition de recommandations simples pour améliorer les ventes.
+* Résultats : Proposition de recommandations  pour améliorer les ventes.
   
 ---
 
