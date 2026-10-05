@@ -1,9 +1,8 @@
 # 👋 Bonjour, je suis Kaoutar !
 
-# 📊 Data Analyst | Passionnée par l'analyse des Données
+# 📊 Junior Data Analyst | Passionnée par l'analyse des Données
 
-Passionnée par l’analyse de données, je souhaite mettre mes compétences en Data Analytics au service de projets concrets.
-
+Passionnée par l’analyse de données, je mets mes compétences en Data Analytics au service de projets concrets.
 
 ---
 
